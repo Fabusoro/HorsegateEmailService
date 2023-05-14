@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "DLPD1RNnWMuXoRIEowr1s9kxFD0CAyuwZa9dukVSFJ4=",
+  "Source": "HorsegateEmail.Api",
+  "BasePath": "_content/HorsegateEmail.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
